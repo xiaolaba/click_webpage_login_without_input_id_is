@@ -1,6 +1,16 @@
 # click_webpage_login_without_input_id_is
 VBA and C#, code snippet, both work for the same webpage.
 
+the wepage and login button, what does looks like
+
+![HTML_login_button_no_input_id.JPG](HTML_login_button_no_input_id.JPG)  
+
+
+
+
+
+
+
 
 ### VBA code
 ```vba
@@ -37,6 +47,9 @@ job_done:
 end sub
 
 ```
+
+
+
 
 ### C# code
 ```csharp
